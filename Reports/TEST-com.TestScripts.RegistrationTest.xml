@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="DESKTOP-O4EC7VQ" name="com.TestScripts.RegistrationTest" skipped="0" tests="1" time="18.933" timestamp="2018-03-03T19:59:49">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="env.USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-O4EC7VQ" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="env.PROMPT" value="$P$G" />
+    <property name="os.name" value="Windows 10" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\classes" />
+    <property name="env.COMPUTERNAME" value="DESKTOP-O4EC7VQ" />
+    <property name="env.CommonProgramW6432" value="C:\Program Files\Common Files" />
+    <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\Kaeshiker\Downloads\eclipse-java-luna-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.2.v201404171502" />
+    <property name="java.runtime.version" value="1.8.0_151-b12" />
+    <property name="env.HOMEPATH" value="\Users\Kaeshiker" />
+    <property name="user.name" value="Kaeshiker" />
+    <property name="ant.file.Hybrid_Framework_Version1" value="C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\build.xml" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin" />
+    <property name="ant.project.default-target" value="build" />
+    <property name="ant.project.name" value="Hybrid_Framework_Version1" />
+    <property name="java.version" value="1.8.0_151" />
+    <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 9, GenuineIntel" />
+    <property name="user.timezone" value="" />
+    <property name="env.TEMP" value="C:\Users\KAESHI~1\AppData\Local\Temp" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="env.HOMEDRIVE" value="C:" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="ECLIPSE_HOME" value="D:\eclipse-jee-indigo-win32\eclipse" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="GB" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_151\jre" />
+    <property name="env.PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules" />
+    <property name="env.APPDATA" value="C:\Users\Kaeshiker\AppData\Roaming" />
+    <property name="env.PUBLIC" value="C:\Users\Public" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="env.ComSpec" value="C:\WINDOWS\system32\cmd.exe" />
+    <property name="env.OS" value="Windows_NT" />
+    <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
+    <property name="ant.file" value="C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\build.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="env.ProgramW6432" value="C:\Program Files" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.151-b12" />
+    <property name="env.USERPROFILE" value="C:\Users\Kaeshiker" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\Users\Kaeshiker\Downloads\eclipse-java-luna-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib" />
+    <property name="ant.file.type.Hybrid_Framework_Version1" value="file" />
+    <property name="junit.output.dir" value="Reports" />
+    <property name="env.JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_151" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="env.TMP" value="C:\Users\KAESHI~1\AppData\Local\Temp" />
+    <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="user.home" value="C:\Users\Kaeshiker" />
+    <property name="target" value="1.6" />
+    <property name="env.ProgramData" value="C:\ProgramData" />
+    <property name="env.SESSIONNAME" value="Console" />
+    <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="env.CLASSPATH" value="C:\STAF\samples\demo\STAFDemo.jar;C:\STAF\bin\JSTAF.jar" />
+    <property name="env.M2_HOME" value="C:\apache-maven-3.5.2-bin\apache-maven-3.5.2" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_151/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_151/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_151/bin/../jre/lib/amd64;&quot;C:\STAF\bin;C:\Program Files\Java\jdk1.8.0_151\bin&quot;;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\geckodriver;C:\Selenium\Chrome\chromedriver_win32;C:\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Program Files\Java\jdk1.8.0_151\bin;C:\Program Files\Java\jre1.8.0_151\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Users\Kaeshiker\AppData\Local\Microsoft\WindowsApps;;C:\Users\Kaeshiker\Downloads\eclipse-java-luna-SR2-win32-x86_64\eclipse;;." />
+    <property name="env.NUMBER_OF_PROCESSORS" value="4" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.2 compiled on July 8 2013" />
+    <property name="java.class.path" value="C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\bin;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\jxl.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\log4j.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\commons-logging-1.1.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\dom4j-1.6.1.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\junit-3.8.1.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\pdfbox-app-1.7.1.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\poi-3.8-20120326.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\poi-examples-3.8-20120326.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\poi-excelant-3.8-20120326.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\poi-ooxml-3.8-20120326.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\poi-ooxml-schemas-3.8-20120326.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\poi-scratchpad-3.8-20120326.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\selenium-java-2.25.0-srcs.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\selenium-java-2.25.0.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\selenium-server-standalone-2.25.0.jar;C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\lib\xmlbeans.jar;C:\STAF\samples\demo\STAFDemo.jar;C:\STAF\bin\JSTAF.jar;C:\Users\Kaeshiker\Downloads\eclipse-java-luna-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-launcher.jar;C:\Users\Kaeshiker\Downloads\eclipse-java-luna-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant.jar;C:\Users\Kaeshiker\Downloads\eclipse-java-luna-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-junit.jar;C:\Users\Kaeshiker\Downloads\eclipse-java-luna-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.TestScripts.RegistrationTest filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\Reports\TEST-com.TestScripts.RegistrationTest.xml crashfile=C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\junitvmwatcher2104153471414419091.properties propsfile=C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master\junit6068376288368748474.properties" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="env.LOGONSERVER" value="\\DESKTOP-O4EC7VQ" />
+    <property name="env.windir" value="C:\WINDOWS" />
+    <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="debuglevel" value="source,lines,vars" />
+    <property name="env.OneDrive" value="C:\Users\Kaeshiker\OneDrive" />
+    <property name="env.ProgramFiles" value="C:\Program Files" />
+    <property name="env.ANT_HOME" value="C:\Users\Kaeshiker\Downloads\eclipse-java-luna-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.2.v201404171502" />
+    <property name="java.io.tmpdir" value="C:\Users\KAESHI~1\AppData\Local\Temp\" />
+    <property name="env.PROCESSOR_REVISION" value="8e09" />
+    <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
+    <property name="env.STAFCONVDIR" value="C:\STAF\codepage" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="env.SystemRoot" value="C:\WINDOWS" />
+    <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master" />
+    <property name="env.LOCALAPPDATA" value="C:\Users\Kaeshiker\AppData\Local" />
+    <property name="env.MAVEN_HOME" value="C:\apache-maven-3.5.2-bin\apache-maven-3.5.2" />
+    <property name="env.FSHARPINSTALLDIR" value="C:\Program Files (x86)\Microsoft SDKs\F#\10.1\Framework\v4.0\" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+    <property name="env.Path" value="C:/Program Files/Java/jdk1.8.0_151/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_151/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_151/bin/../jre/lib/amd64;&quot;C:\STAF\bin;C:\Program Files\Java\jdk1.8.0_151\bin&quot;;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\geckodriver;C:\Selenium\Chrome\chromedriver_win32;C:\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Program Files\Java\jdk1.8.0_151\bin;C:\Program Files\Java\jre1.8.0_151\bin;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Users\Kaeshiker\AppData\Local\Microsoft\WindowsApps;;C:\Users\Kaeshiker\Downloads\eclipse-java-luna-SR2-win32-x86_64\eclipse;" />
+    <property name="basedir" value="C:\Users\Kaeshiker\Desktop\Today\Selenium_2_Framework-master\Selenium_Framework-master" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\Users\Kaeshiker\Downloads\eclipse-java-luna-SR2-win32-x86_64\eclipse\plugins\org.apache.ant_1.9.2.v201404171502\lib\ant.jar" />
+    <property name="env.USERNAME" value="Kaeshiker" />
+    <property name="env.SystemDrive" value="C:" />
+    <property name="source" value="1.6" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="env.USERDOMAIN" value="DESKTOP-O4EC7VQ" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="build,TestSuite,junitreport" />
+    <property name="env.PROCESSOR_LEVEL" value="6" />
+  </properties>
+  <testcase classname="com.TestScripts.RegistrationTest" name="testValidRegister" time="18.62" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73) on port 22432
+Only local connections are allowed.
+log4j:WARN No appenders could be found for logger (org.apache.http.impl.conn.tsccm.ThreadSafeClientConnManager).
+log4j:WARN Please initialize the log4j system properly.
+]]></system-err>
+</testsuite>
