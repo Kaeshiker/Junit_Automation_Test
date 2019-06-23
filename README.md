@@ -1,7 +1,11 @@
 Selenium 2 Test Automation Framework 
 <a href = "http://www.grazitti.com">By Grazitti Interactive</a>
 
+<<<<<<< HEAD
 Version 1000.0
+=======
+Version 4.0
+>>>>>>> fe4f530ec352fc17624c5e3fbc7e940c099c504f
 
 ====================
 FRAMEWORK OVERVIEW
