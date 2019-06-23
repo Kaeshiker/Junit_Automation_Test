@@ -1,7 +1,7 @@
 Selenium 2 Test Automation Framework 
 <a href = "http://www.grazitti.com">By Grazitti Interactive</a>
 
-Version 6.0
+Version 7.0
 
 ====================
 FRAMEWORK OVERVIEW
